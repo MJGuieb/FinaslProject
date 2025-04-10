@@ -1,1 +1,2 @@
-# FinaslProject
+GUIEB, Michael Jhay
+LAMSIS, Gener
